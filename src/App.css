@@ -1,0 +1,36 @@
+body {
+  background-color: #ccf5ff;
+  background-image: url("https://images.pexels.com/photos/723240/pexels-photo-723240.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Navbar */
+.navbars {
+  height: 11vh;
+  background-color: #00b8e6;
+  font-weight: bold;
+  color: #f2f2f2;
+}
+/*Navbar Text Zippy*/
+.zippytext{
+  font-size: 2rem;
+  margin-left: 1rem;
+  margin-top: 3rem;
+  text-decoration: none;
+  color: #f2f2f2;
+}
+.zippytext:hover{
+  color: black;
+}
+.getuser{
+  padding: 5px;
+}
+/* Navbar Button Get User */
+.navbars .btn {
+  float: right;
+  color: white;
+}
+.navbars .btn:hover {  
+  color: rgb(0, 0, 0);
+}

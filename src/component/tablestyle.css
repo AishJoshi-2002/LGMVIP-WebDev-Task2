@@ -1,0 +1,21 @@
+.listusers{
+    background-color: rgba(255, 255, 255, 0.541);
+    text-align: center;
+    border-radius: 6%;
+}
+.users{
+    width: 350px;
+    height: 20.5rem;
+    background-image: url("https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.usertext{
+    color: #ffffff;
+}
+.usertext:hover{
+    color:#ccf5ff;
+}
+ul {
+    list-style: none; /* Remove default bullets */
+  }
